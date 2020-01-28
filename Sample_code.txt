@@ -1,0 +1,187 @@
+Sample	name 	passage	diff status	protocol	mount date
+1	Condition1	p30	3D	PFA4%-wait	2018-11-20
+2	Condition2	p23	3D	PFA4%-wait	2018-11-20
+3	Condition1	p30	6D	PFA4%-fresh	2018-11-20
+4	Condition2	p23	6D	PFA4%-fresh	2018-11-20
+5	Condition1	p29	18D	MeOH	2018-11-28
+6	Condition2	p22	18D	MeOH	2018-11-28
+7	Condition1	p33	0D	PFA4%-fresh	2018-11-30
+8	Condition1	p33	0D	PFA4%-fresh	2018-11-30
+9	Condition1	p33	0D	PFA4%-fresh	2018-11-30
+10	Condition1	p33	0D	PFA4%-fresh	2018-11-30
+11	Condition2	p26	0D	PFA4%-fresh	2018-11-30
+12	Condition2	p26	0D	PFA4%-fresh	2018-11-30
+13	Condition2	p26	0D	PFA4%-fresh	2018-11-30
+14	Condition2	p26	0D	PFA4%-fresh	2018-11-30
+15	Condition3	p19	0D	PFA4%-fresh	2018-11-30
+16	Condition3	p19	0D	PFA4%-fresh	2018-11-30
+17	Condition3	p19	0D	PFA4%-fresh	2018-11-30
+18	Condition3	p19	0D	PFA4%-fresh	2018-11-30
+19	Condition1	p30	28D	PFA4%-fresh	2018-12-12
+20	Condition1	p30	28D	PFA4%-fresh	2018-12-12
+21	Condition1	p30	28D	PFA4%-fresh	2018-12-12
+22	Condition1	p30	28D	PFA4%-fresh	2018-12-12
+23	Condition1	p30	28D	PFA4%-fresh	2018-12-12
+24	Condition1	p30	28D	PFA4%-fresh	2018-12-12
+25	Condition1	p30	28D	PFA4%-fresh	2018-12-12
+26	Condition1	p30	28D	PFA4%-fresh	2018-12-12
+27	Condition1	p33	0D	PFA4%-wait	2018-12-12
+28	Condition1	p33	8D	PFA4%-wait	2018-12-12
+29	Condition1	p33	8D	PFA4%-wait	2018-12-12
+30	Condition1	p33	8D	PFA4%-wait	2018-12-12
+31	Condition1	p33	8D	PFA4%-wait	2018-12-12
+32	Condition1	p33	8D	PFA4%-wait	2018-12-12
+33	Condition2	p23	28D	PFA4%-fresh	2018-12-12
+34	Condition2	p23	28D	PFA4%-fresh	2018-12-12
+35	Condition2	p23	28D	PFA4%-fresh	2018-12-12
+36	Condition2	p23	28D	PFA4%-fresh	2018-12-12
+37	Condition2	p23	28D	PFA4%-fresh	2018-12-12
+38	Condition2	p23	28D	PFA4%-fresh	2018-12-12
+39	Condition2	p23	28D	PFA4%-fresh	2018-12-12
+40	Condition2	p23	28D	PFA4%-fresh	2018-12-12
+41	Condition2	p26	0D	PFA4%-wait	2018-12-12
+42	Condition2	p26	8D	PFA4%-wait	2018-12-12
+43	Condition2	p26	8D	PFA4%-wait	2018-12-12
+44	Condition2	p26	8D	PFA4%-wait	2018-12-12
+45	Condition2	p26	8D	PFA4%-wait	2018-12-12
+46	Condition2	p26	8D	PFA4%-wait	2018-12-12
+47	Condition3	p19	0D	PFA4%-wait	2018-12-12
+48	Condition3	p19	8D	PFA4%-wait	2018-12-12
+49	Condition3	p19	8D	PFA4%-wait	2018-12-12
+50	Condition3	p19	8D	PFA4%-wait	2018-12-12
+51	Condition3	p19	8D	PFA4%-wait	2018-12-12
+52	Condition3	p19	8D	PFA4%-wait	2018-12-12
+53	Condition1	p33	16D	PFA4%-wait	2018-12-20
+54	Condition1	p33	16D	PFA4%-wait	2018-12-20
+55	Condition1	p33	16D	PFA4%-wait	2018-12-20
+56	Condition1	p33	16D	PFA4%-wait	2018-12-20
+57	Condition1	p33	16D	PFA4%-wait	2018-12-20
+58	Condition1	p23	41D	PFA4%-fresh	2018-12-20
+59	Condition1	p23	41D	PFA4%-fresh	2018-12-20
+60	Condition1	p23	41D	PFA4%-fresh	2018-12-20
+61	Condition1	p23	41D	PFA4%-fresh	2018-12-20
+62	Condition1	p23	41D	PFA4%-fresh	2018-12-20
+63	Condition1	p23	41D	PFA4%-fresh	2018-12-20
+64	Condition1	p23	41D	PFA4%-fresh	2018-12-20
+65	Condition1	p23	41D	MeOH	2018-12-20
+66	Condition1	p23	41D	MeOH	2018-12-20
+67	Condition2	p26	16D	PFA4%-wait	2018-12-20
+68	Condition2	p26	16D	PFA4%-wait	2018-12-20
+69	Condition2	p26	16D	PFA4%-wait	2018-12-20
+70	Condition2	p26	16D	PFA4%-wait	2018-12-20
+71	Condition2	p26	16D	PFA4%-wait	2018-12-20
+72	Condition2	p26	41D	PFA4%-fresh	2018-12-20
+73	Condition2	p26	41D	PFA4%-fresh	2018-12-20
+74	Condition2	p26	41D	PFA4%-fresh	2018-12-20
+75	Condition2	p26	41D	PFA4%-fresh	2018-12-20
+76	Condition2	p26	41D	PFA4%-fresh	2018-12-20
+77	Condition2	p26	41D	PFA4%-fresh	2018-12-20
+78	Condition2	p26	41D	PFA4%-fresh	2018-12-20
+79	Condition2	p26	41D	MeOH	2018-12-20
+80	Condition2	p26	41D	MeOH	2018-12-20
+81	Condition3	p19	16D	PFA4%-wait	2018-12-20
+82	Condition3	p19	16D	PFA4%-wait	2018-12-20
+83	Condition3	p19	16D	PFA4%-wait	2018-12-20
+84	Condition3	p19	16D	PFA4%-wait	2018-12-20
+85	Condition3	p19	16D	PFA4%-wait	2018-12-20
+86	Condition4	p24	0D	PFA4%-fresh	2019-01-29
+87	Condition1		8D	PFA4%-wait	2019-01-29
+88	Condition4	p24	8D	PFA4%-fresh	2019-01-29
+89	Condition1		16D	PFA4%-wait	2019-02-05
+90	Condition4	p24	16D	PFA4%-fresh	2019-02-05
+91	Condition3		16D	PFA4%-fresh	2019-02-12
+92	Condition1		28D	PFA4%-fresh	2019-02-14
+93	Condition1		28D	PFA4%-fresh	2019-02-14
+94	Condition1		28D	PFA4%-fresh	2019-02-14
+95	Condition1		28D	PFA4%-fresh	2019-02-14
+96	Condition2	p13	28D	PFA4%-wait	2019-02-18
+97	Condition2	p13	28D	PFA4%-wait	2019-02-18
+98	Condition2	p13	28D	PFA4%-wait	2019-02-18
+99	Condition2	p13	28D	PFA4%-wait	2019-02-18
+100	Condition4	p24	28D	PFA4%-wait	2019-02-18
+101	Condition4	p24	28D	PFA4%-wait	2019-02-18
+102	Condition2		28D	PFA4%-wait	2019-02-22
+103	Condition2		28D	PFA4%-wait	2019-02-22
+104	Condition2		28D	PFA4%-wait	2019-02-22
+105	Condition2		28D	PFA4%-wait	
+106	Condition2		28D	PFA4%-wait	
+107	Condition3		28D	PFA4%-wait	
+108	Condition3		28D	PFA4%-wait	
+109	Condition1		0D	PFA4%-wait	2019-03-05
+110	Condition1		0D	PFA4%-wait	2019-03-05
+111	Condition1		0D	PFA4%-wait	2019-03-05
+112	Condition2		0D	PFA4%-wait	2019-03-05
+113	Condition2		0D	PFA4%-wait	2019-03-05
+114	Condition2		0D	PFA4%-wait	2019-03-05
+115	Condition1		28D	PFA4%-wait	3/7/2019
+116	Condition1		28D	PFA4%-wait	3/7/2019
+117	Condition1		28D	PFA4%-wait	3/7/2019
+118	Condition4		28D	PFA4%-wait	3/7/2019
+119	Condition4		28D	PFA4%-wait	3/7/2019
+120	Condition4		28D	PFA4%-wait	3/7/2019
+121	Condition1		28D	PFA4%-wait	3/11/2019
+122	Condition2		28D	PFA4%-wait	3/11/2019
+123	Condition3		28D	PFA4%-wait	3/11/2019
+124	Condition1		28D	PFA4%-wait	3/11/2019
+125	Condition4		28D	PFA4%-wait	3/11/2019
+126	Condition2		28D	PFA4%-wait	3/19/2019
+127	Condition2		28D	PFA4%-wait	3/19/2019
+128	Condition4		28D	PFA4%-wait	3/19/2019
+129	Condition4		28D	PFA4%-wait	3/19/2019
+130	Condition3		28D	PFA4%-wait	3/19/2019
+131	Condition3		28D	PFA4%-wait	3/19/2019
+132	Condition3		28D	PFA4%-wait	3/19/2019
+133	Condition1		28D	PFA4%-wait	3/19/2019
+134	Condition2		28D	PFA4%-wait	3/19/2019
+135	Condition4		28D	PFA4%-wait	3/19/2019
+136	Condition4		28D	PFA4%-wait	4/9/2019
+137	Condition4		28D	PFA4%-wait	4/9/2019
+138	Condition4		28D	PFA4%-wait	4/9/2019
+139	Condition4		28D	PFA4%-wait	
+140	Condition3		28D	PFA4%-wait	4/9/2019
+141	Condition3		28D	PFA4%-wait	4/9/2019
+142	Condition3		28D	PFA4%-wait	4/9/2019
+143	Condition2		28D	PFA4%-wait	4/9/2019
+144	Condition2		28D	PFA4%-wait	4/9/2019
+145	Condition2		28D	PFA4%-wait	4/9/2019
+146	Condition1		28D	PFA4%-wait	4/9/2019
+147	Condition1		28D	PFA4%-wait	4/9/2019
+148	Condition1		28D	PFA4%-wait	4/9/2019
+149	Condition1	p12	28D	PFA4%-wait	6/25/2019
+150	Condition1	p12	28D	PFA4%-wait	6/25/2019
+151	Condition1	p12	28D	PFA4%-wait	6/25/2019
+152	Condition1	p12	28D	PFA4%-wait	6/25/2019
+153	Condition1	p12	28D	PFA4%-wait	6/25/2019
+154	Condition3	p17	28D	PFA4%-wait	6/25/2019
+155	Condition3	p17	28D	PFA4%-wait	6/25/2019
+156	Condition3	p17	28D	PFA4%-wait	6/25/2019
+157	Condition4	p24	28D	PFA4%-wait	6/25/2019
+158	Condition4	p24	28D	PFA4%-wait	6/25/2019
+159	Condition4	p24	28D	PFA4%-wait	6/25/2019
+160	Condition4	p24	28D	PFA4%-wait	6/25/2019
+161	Condition4	p24	28D	PFA4%-wait	6/25/2019
+162	Condition2	p13	28D	PFA4%-wait	6/25/2019
+163	Condition2	p13	28D	PFA4%-wait	6/25/2019
+164	Condition2	p13	28D	PFA4%-wait	6/25/2019
+165	Condition2	p13	28D	PFA4%-wait	6/25/2019
+166	Condition2	p13	28D	PFA4%-wait	6/25/2019
+167	Condition4	p25	28D	PFA4%-fresh	6/25/2019
+168	Condition4	p25	28D	PFA4%-fresh	6/25/2019
+169	Condition4	p25	28D	PFA4%-fresh	6/25/2019
+170	Condition4	p25	28D	PFA4%-fresh	6/25/2019
+171	Condition4	p25	28D	PFA4%-fresh	6/25/2019
+172	Condition2	p14	28D	PFA4%-fresh	6/26/2019
+173	Condition2	p14	28D	PFA4%-fresh	6/26/2019
+174	Condition2	p14	28D	PFA4%-fresh	6/26/2019
+175	Condition2	p14	28D	PFA4%-fresh	6/26/2019
+176	Condition2	p14	28D	PFA4%-fresh	6/26/2019
+177	Condition1	p15	28D	PFA4%-wait	7/2/2019
+178	Condition1	p15	28D	PFA4%-wait	7/2/2019
+179	Condition1	p15	28D	PFA4%-wait	7/2/2019
+180	Condition1	p15	28D	PFA4%-wait	7/2/2019
+181	Condition1	p15	28D	PFA4%-wait	7/2/2019
+182	Condition3	p18	28D	PFA4%-wait	7/2/2019
+183	Condition3	p18	28D	PFA4%-wait	7/2/2019
+184	Condition3	p18	28D	PFA4%-wait	7/2/2019
+185	Condition3	p18	28D	PFA4%-wait	7/2/2019
+186	Condition3	p18	28D	PFA4%-wait	7/2/2019
